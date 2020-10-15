@@ -1,0 +1,25 @@
+{
+  "name": "redtetris",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ocojeda/redtetris.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ocojeda/redtetris/issues"
+  },
+  "homepage": "https://github.com/ocojeda/redtetris#readme",
+  "requires": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "package-lock.json": "^1.0.0",
+    "package.json": "^2.0.1"
+  }
+}
